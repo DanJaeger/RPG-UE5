@@ -1,0 +1,50 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/USUARIO/Documents/Unreal Projects/RPG_Test/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/USUARIO/Documents/Unreal Projects/RPG_Test/Content/Characters/RPG_Character/Animations/Locomoion/Idle_Break.uasset",
+				"C:/Users/USUARIO/Documents/Unreal Projects/RPG_Test/Content/Characters/RPG_Character/Animations/Locomoion/Walk_Stop.uasset",
+				"C:/Users/USUARIO/Documents/Unreal Projects/RPG_Test/Content/Characters/RPG_Character/Animations/Crouch/Crouch_Idle.uasset",
+				"C:/Users/USUARIO/Documents/Unreal Projects/RPG_Test/Content/Characters/RPG_Character/Animations/Crouch/Crouh_Walk.uasset",
+				"C:/Users/USUARIO/Documents/Unreal Projects/RPG_Test/Content/Characters/RPG_Character/Animations/Locomoion/LocomotionBlendSpace1D.uasset",
+				"C:/Users/USUARIO/Documents/Unreal Projects/RPG_Test/Content/Characters/RPG_Character/Animations/ABP_RPG_Character.uasset",
+				"C:/Users/USUARIO/Documents/Unreal Projects/RPG_Test/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/USUARIO/Documents/Unreal Projects/RPG_Test/Content/Characters/RPG_Character/Animations/Crouch/CrouchBlendSpace1D.uasset",
+				"C:/Users/USUARIO/Documents/Unreal Projects/RPG_Test/Content/ThirdPerson/Input/Actions/IA_Crouch.uasset",
+				"C:/Users/USUARIO/Documents/Unreal Projects/RPG_Test/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/USUARIO/Documents/Unreal Projects/RPG_Test/Content/Characters/RPG_Character/Animations/Lean/Lean_Left.uasset",
+				"C:/Users/USUARIO/Documents/Unreal Projects/RPG_Test/Content/Characters/RPG_Character/Animations/Lean/Lean_Right.uasset",
+				"C:/Users/USUARIO/Documents/Unreal Projects/RPG_Test/Content/Characters/RPG_Character/Animations/Lean/LeanBlendSpace1D.uasset",
+				"C:/Users/USUARIO/Documents/Unreal Projects/RPG_Test/Content/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_Blue.uasset",
+				"C:/Users/USUARIO/Documents/Unreal Projects/RPG_Test/Content/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_Blue_02.uasset",
+				"C:/Users/USUARIO/Documents/Unreal Projects/RPG_Test/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+				"C:/Users/USUARIO/Documents/Unreal Projects/RPG_Test/Content/Characters/RPG_Character/Animations/Vaulting/VaultOver.uasset",
+				"C:/Users/USUARIO/Documents/Unreal Projects/RPG_Test/Content/Characters/RPG_Character/Animations/Vaulting/VaultOver_Montage.uasset",
+				"C:/Users/USUARIO/Documents/Unreal Projects/RPG_Test/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/RS/2RJAO7ZEQEGTS33UD5CD2H.uasset",
+				"C:/Users/USUARIO/Documents/Unreal Projects/RPG_Test/Content/Characters/RPG_Character/Animations/Assassinations/UE4/Paired_Knife_Stealth_KidneyAndNeck_Att.uasset",
+				"C:/Users/USUARIO/Documents/Unreal Projects/RPG_Test/Content/Characters/RPG_Character/Animations/Assassinations/UE4/Paired_Knife_Stealth_KidneyAndNeck_Vic.uasset",
+				"C:/Users/USUARIO/Documents/Unreal Projects/RPG_Test/Content/Characters/RPG_Character/Animations/Assassinations/Paired_Knife_Stealth_KidneyAndNeck_Att.uasset",
+				"C:/Users/USUARIO/Documents/Unreal Projects/RPG_Test/Content/Characters/RPG_Character/Animations/Assassinations/Paired_Knife_Stealth_KidneyAndNeck_Vic.uasset",
+				"C:/Users/USUARIO/Documents/Unreal Projects/RPG_Test/Content/Characters/RPG_Character/Animations/Assassinations/Paired_Knife_Stealth_KidneyAndNeck_Att_Montage.uasset",
+				"C:/Users/USUARIO/Documents/Unreal Projects/RPG_Test/Content/Blueprints/BP_Dummy.uasset",
+				"C:/Users/USUARIO/Documents/Unreal Projects/RPG_Test/Content/Blueprints/BPI_Assassination.uasset",
+				"C:/Users/USUARIO/Documents/Unreal Projects/RPG_Test/Content/Characters/RPG_Character/Animations/Locomotion/Walk_Stop.uasset",
+				"C:/Users/USUARIO/Documents/Unreal Projects/RPG_Test/Content/Characters/RPG_Character/Animations/Locomotion/Idle_Break.uasset",
+				"C:/Users/USUARIO/Documents/Unreal Projects/RPG_Test/Content/Characters/RPG_Character/Animations/Locomotion/LocomotionBlendSpace1D.uasset",
+				"C:/Users/USUARIO/Documents/Unreal Projects/RPG_Test/Content/Characters/RPG_Character/Animations/Assassinations/Paired_Knife_Stealth_KidneyAndNeck_Vic_Montage.uasset",
+				"C:/Users/USUARIO/Documents/Unreal Projects/RPG_Test/Content/UI/WB_Assassinate.uasset",
+				"C:/Users/USUARIO/Documents/Unreal Projects/RPG_Test/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/ON/X0712NQWOWD8S49IMV0FH1.uasset",
+				"C:/Users/USUARIO/Documents/Unreal Projects/RPG_Test/Content/ThirdPerson/Input/Actions/IA_Assassinate.uasset",
+				"C:/Users/USUARIO/Documents/Unreal Projects/RPG_Test/Content/ThirdPerson/Input/Actions/IA_Vault.uasset",
+				"C:/Users/USUARIO/Documents/Unreal Projects/RPG_Test/Content/Characters/RPG_Character/Animations/Crouch_Idle.uasset",
+				"C:/Users/USUARIO/Documents/Unreal Projects/RPG_Test/Content/Characters/RPG_Character/Animations/Crouh_Walk.uasset",
+				"C:/Users/USUARIO/Documents/Unreal Projects/RPG_Test/Content/Characters/RPG_Character/Animations/Idle_Break.uasset",
+				"C:/Users/USUARIO/Documents/Unreal Projects/RPG_Test/Content/Characters/RPG_Character/Animations/Walk_Stop.uasset"
+			]
+		}
+	]
+}
